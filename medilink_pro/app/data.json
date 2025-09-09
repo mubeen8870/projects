@@ -1,0 +1,97 @@
+{
+    "patients": [
+        {
+            "name": "Jack",
+            "age": 30,
+            "disease": "Fever",
+            "_id": "68b577302b8e315c4a11d56a"
+        },
+        {
+            "name": "Joy",
+            "age": 35,
+            "disease": "Cold",
+            "_id": "68b577bd2b8e315c4a11d56b"
+        },
+        {
+            "name": "mubeen shaik",
+            "age": 25,
+            "disease": "Heart pain",
+            "_id": "68b577f42b8e315c4a11d56c"
+        },
+        {
+            "name": "moin shaik",
+            "age": 20,
+            "disease": "Back pain",
+            "_id": "68b5783c2b8e315c4a11d56d"
+        },
+        {
+            "name": "mujju shaik",
+            "age": 50,
+            "disease": "head pain",
+            "_id": "68b6aa78aa3e85f919aa7244"
+        },
+        {
+            "name": "vaishnav",
+            "age": 25,
+            "disease": "hand pain",
+            "_id": "68be6ac1967f434cdb0904bb"
+        },
+        {
+            "name": "aravind",
+            "age": 30,
+            "disease": "eye pain",
+            "_id": "68be6bd7967f434cdb0904bc"
+        }
+    ],
+    "medicines": [
+        {
+            "name": "Paracetamol",
+            "brand": "Cipla",
+            "price": 25,
+            "stock": 100,
+            "_id": "68b57bff2b8e315c4a11d56e"
+        },
+        {
+            "name": "omez-d",
+            "brand": "Dr.reddy's",
+            "price": 25,
+            "stock": 100,
+            "_id": "68b57c7e2b8e315c4a11d56f"
+        },
+        {
+            "name": "zinc",
+            "brand": "east west pharma",
+            "price": 60,
+            "stock": 100,
+            "_id": "68b57cc32b8e315c4a11d570"
+        },
+        {
+            "name": "eufox-o",
+            "brand": "Lupin",
+            "price": 100,
+            "stock": 500,
+            "_id": "68b57cf02b8e315c4a11d571"
+        },
+        {
+            "name": "accelofenac",
+            "brand": "alembic",
+            "price": 50,
+            "stock": 500,
+            "_id": "68b57d552b8e315c4a11d572"
+        },
+        {
+            "name": "cipladine",
+            "brand": "cipla",
+            "price": 30,
+            "stock": 500,
+            "_id": "68b6ac8caa3e85f919aa7245"
+        },
+        {
+            "name": "vit-e",
+            "brand": "Lupin",
+            "price": 30,
+            "stock": 600,
+            "_id": "68be732d967f434cdb0904bd"
+        }
+    ]
+}
